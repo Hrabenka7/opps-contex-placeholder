@@ -1,0 +1,39 @@
+{
+  "opp": [ "fechaCreacion": "21/11/2018 12:41",
+   "userCreacion": -1,
+   "generalinformation": {
+       "title": "Test title",
+       "opportunity": "1"
+   },
+   "questionsinformation": {
+       "q1": "Real Estate Sector",
+       "q2": "The IT Manager is the stopper",
+       "q3": "they already have an CRM",
+       "q4": "Nothing",
+       "q5": "Nothing 2",
+       "q6": "4 managers",
+       "q7": "No competitors",
+       "q8": "On December",
+       "q9": "Sales Rep",
+       "q10_opportunities": true,
+       "q10_opportunities_details": "test opportunities details",
+       "q10_orders": true,
+       "q10_orders_details": "test orders details",
+       "q10_products": true,
+       "q10_products_details": "test products details",
+       "q10_documents": "",
+       "q10_documents_details": "",
+       "q11": "GPV Application",
+       "q12": "Order and activities",
+       "q13": "no",
+       "q14_goals": true,
+       "q14_goals_details": "test goals details",
+       "q14_campaigns": "",
+       "q14_campaigns_details": "",
+       "q14_news": "",
+       "q14_news_details": "",
+       "q14_signature": true,
+       "q14_signature_details": "test signatures details",
+       "q15": "no"
+   }
+]} 
