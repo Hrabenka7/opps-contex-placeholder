@@ -6,7 +6,7 @@
        "title": "Test title",
        "opportunity": "1"
    },
-   "questionsinformation": { [
+   "questionsinformation": { 
        "q1": "Real Estate Sector",
        "q2": "The IT Manager is the stopper",
        "q3": "they already have an CRM",
@@ -35,6 +35,6 @@
        "q14_news_details": "",
        "q14_signature": true,
        "q14_signature_details": "test signatures details",
-       "q15": "no"]
+       "q15": "no"
    }}
 ]} 
